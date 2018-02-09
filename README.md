@@ -1,6 +1,6 @@
 # IllbeHomeforChristmas
 This repository contains a Unity 3D mobile application for iOS and Andriod devices called "I'll be Home for Christmas". It has been built and tested using the Google Cardboard Platform.
-![screen shot 2017-12-07 at 11 52 15 am](https://user-images.githubusercontent.com/35173600/36035364-9f5eb4b8-0d84-11e8-883d-e487180601fa.png)
+![screen shot 2018-02-09 at 1 09 25 pm](https://user-images.githubusercontent.com/35173600/36042633-8a9ecb74-0d9a-11e8-8d69-0a211ec999e3.png)
 ## Application Description
 "I'll be Home for Christmas" is a maze scene where the user must complete the maze in order to win the experience and to restart the game. Along the way through the maze they are able to collect items (presents and stars) to increase their score and add to the fun of the experience. This project was my capstone project for the Udacity VR Developer Nanodegree to present what I had learned and my skills gained during the course.
 
@@ -18,6 +18,7 @@ In order to download and build application you must:
 
 ## How to play
 The instructions to play the application "I'll be Home for Christmas" are very simple and fun!
+![screen shot 2018-02-09 at 1 11 41 pm](https://user-images.githubusercontent.com/35173600/36042722-d2b82748-0d9a-11e8-9879-879e8527206b.png)
 <br />
 <br /> • After beginning the game, press the "Begin!" button on the start panel
 <br />
@@ -26,3 +27,4 @@ The instructions to play the application "I'll be Home for Christmas" are very s
 <br /> • While going through the maze you can pick up any presents or stars you see to increase your score-keep an eye out for the stars, they are worth more points!
 <br />
 <br /> • After reaching the end of the maze you can restart the experience by clicking the Restart button you will be prompted with in the house as you have made it home in time for Christmas!
+![screen shot 2018-02-09 at 1 13 56 pm](https://user-images.githubusercontent.com/35173600/36042827-288861f6-0d9b-11e8-8c95-74611514adb0.png)
