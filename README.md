@@ -6,7 +6,8 @@ This repository contains a Unity 3D mobile application for iOS and Andriod devic
 # Building and creation of the Application
 The Application was created using Unity 3D Patch Release 2017.1.0p4 and it can be built and ran to iOS through Xcode Version 9.2 or Version 9.3 Beta. The iOS device must have software version  11 and up. It also can be built and ran on Andriod devices post downloading the Andriod Studio SDK and Java JDK 8.  In order to either just play the scene on desktop and build the application the version of Unity must be Unity Patch Release 2017.1.0p4.
 
-#Getting Started
+# Getting Started
+Screen Shot 2017-12-07 at 11.52.15 am
 In order to download and build application you must:
 •	Go to the green "Clone or download" button and "Downland Zip"
 • Once the zip file is on your desktop, double click the zip file, it will open. Navigate to the folder Assets > ChristmasMaze.unity (the scene may be a bit down the page but it will be titled exactly ChristmasMaze.unity with the Unity logo)
