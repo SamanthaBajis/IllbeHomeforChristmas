@@ -41,7 +41,8 @@ When building the application to your devices a few important things to note:
 ## How to play
 The instructions to play the application "I'll be Home for Christmas" are very simple and fun!
 ![screen shot 2018-02-09 at 1 11 41 pm](https://user-images.githubusercontent.com/35173600/36042722-d2b82748-0d9a-11e8-9879-879e8527206b.png)
-• After beginning the game, press the "Begin!" button on the start panel
+<br />
+<br /> • After beginning the game, press the "Begin!" button on the start panel
 <br />
 <br /> • You can move throughout the maze by cicking on the sphereical waypoints, that will change from red to green as you gaze on them with  the Google Cardboard viewer, to guide you with the Cardbord headset clicker.
 <br />
