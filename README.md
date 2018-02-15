@@ -38,7 +38,7 @@ When building the application to your phone a few important things to note:
 <br /> • The Google VR SDK used in the game tracks your head movement. Meaning, where ever the phone is facing, the application will open and start your game from that position. If you would like to be facing a certain direction to play the game right after building to your phone I would suggest facing your device in that direction and hold it horizontally so you can start the experience in the most comfortable position for you.
 
 ## How to play
-The instructions to play the application "I'll be Home for Christmas" are very simple and fun!
+The instructions to play the application **_I'll be home for Christmas_** are very simple and fun!
 ![screen shot 2018-02-09 at 1 11 41 pm](https://user-images.githubusercontent.com/35173600/36042722-d2b82748-0d9a-11e8-9879-879e8527206b.png)
 <br />
 <br /> • After beginning the game, press the "Begin!" button on the start panel
@@ -59,4 +59,4 @@ To make **_I'll be home for Christmas_** possible:
 <br /> 
 <br /> • Udacity - coding for player movement mechanic
 <br /> 
-<br /> • Google VR SDK- head tracking, sound system and ability for the users interaction with the Google Cardboard Viewer.
+<br /> • Google VR SDK- head tracking, sound system and ability for the users interaction with the Google Cardboard Viewer
