@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# IllbeHomeforChristmas
-My Capstone project created for the Udacity VR Developer Nanodegree.
-How to use the project, what was used to create the project, document all An application program interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. Additionally, APIs are used when programming graphical user interface (GUI) components.
-How to install project
-Supported Platforms, Make sure they know it is completly in English
-=======
 # I'll be Home for Christmas
 An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
 <br />
@@ -74,4 +67,3 @@ To make **_I'll be home for Christmas_** possible:
 <br /> • Blender- Created cans, trash, and box the user will pick up towards the end of the experience using the 3D computer graphics software Blender
 <br /> 
 <br /> • Bretwalda Games - They created the Christmas 3D models used in experience. Such as the stars, presents and tree
->>>>>>> 690e42f08f4bfc230949d5ae5c8141eaa5e64360
