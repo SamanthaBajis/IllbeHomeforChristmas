@@ -1,7 +1,7 @@
 # I'll be Home for Christmas
 An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
 <br />
-<br /> This repository contains a Unity mobile application for iOS and Android devices called **_I'll be home for Christmas_**. It was built and tested using the Google Cardboard Viewer. The application is a maze game where the user must complete the maze in order to win and be prompted to restart the game. Along the way, the user is able to collect items to increase their score to add to the fun of the experience! This was my capstone project for the Udacity VR Developer Nanodegree Program. The experience is designed to make the user feel the emotion of Joy as they play. The project presents my skills and what I learned while developing mobile applications during the Udacity course.
+<br /> This repository contains a Unity mobile application for iOS and Android devices called **_I'll be Home for Christmas_**. It was built and tested using the Google Cardboard Viewer. The application is a maze game where the user must complete the maze in order to win and be prompted to restart the game. Along the way, the user is able to collect items to increase their score to add to the fun of the experience! This was my capstone project for the Udacity VR Developer Nanodegree Program. The experience is designed to make the user feel the emotion of Joy as they play. The project presents my skills and what I learned while developing mobile applications during the Udacity course.
 <br />![screen shot 2018-02-09 a 1 09 25 pm](https://user-images.githubusercontent.com/35173600/36042633-8a9ecb74-0d9a-11e8-8d69-0a211ec999e3.png)
 
 ## Getting Started
@@ -19,7 +19,7 @@ The software you will need to download in order to build and run the game on a m
 ### Installing
 To build and run a copy of this application to your mobile device:
 <br />
-<br /> • On the **_I'll be home for Christmas_** repository, go to the green "Clone or download" button and click "Download Zip".
+<br /> • On the **_I'll be Home for Christmas_** repository, go to the green "Clone or download" button and click "Download Zip".
 <br />
 <br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > ChristmasMaze.unity and double click the scene to open it in Unity.
 <br />
@@ -41,7 +41,7 @@ When building the application to your phone a few important things to note:
 <br /> • The Google VR SDK used in the game tracks your head movement. Meaning, wherever the phone is facing, the application will open and start your game from that position. If you would like to be facing a certain direction to play the game right after building to your phone I would suggest facing your device in that direction and hold it horizontally so you can start the experience in the most comfortable position for you.
 
 ## How to play
-The instructions to play the application **_I'll be home for Christmas_** are very simple and fun!
+The instructions to play the application **_I'll be Home for Christmas_** are very simple and fun!
 ![screen shot 2018-02-09 at 1 11 41 pm](https://user-images.githubusercontent.com/35173600/36042722-d2b82748-0d9a-11e8-9879-879e8527206b.png)
 <br />
 <br /> • After beginning the game, press the "Begin!" button on the panel in front of you.
@@ -58,7 +58,7 @@ The instructions to play the application **_I'll be home for Christmas_** are ve
 • Samantha Cayla Bajis - _Initial work_ - SamBajis
 
 # Acknowledgments
-To make **_I'll be home for Christmas_** possible:
+To make **_I'll be Home for Christmas_** possible:
 <br /> 
 <br /> • Udacity - Coding for player movement mechanic
 <br /> 
